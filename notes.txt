@@ -1,1 +1,2 @@
 Sample task notes
+Record verification output after each exercise.
