@@ -11,4 +11,4 @@ Mode: practice
 09
 10
 
-Status: planned
+Status: ready
