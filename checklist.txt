@@ -1,4 +1,4 @@
-Mode: review
+Mode: practice
 
 01
 02
